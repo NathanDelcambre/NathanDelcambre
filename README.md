@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathanDelcambre
-- 👀 I’m interested in Compter Science
+- 👀 I’m interested in Computer Science
 
 <!---
 NathanDelcambre/NathanDelcambre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
